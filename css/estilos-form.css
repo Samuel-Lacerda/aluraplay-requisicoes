@@ -46,3 +46,7 @@
     border-radius: 24px;
     background-color: var(--azul-escuro);
 }
+
+.formulario__botao:hover{
+    cursor: pointer;
+}
